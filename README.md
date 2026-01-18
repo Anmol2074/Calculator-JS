@@ -12,6 +12,11 @@ script.js
 
 ---
 
+
+## 🚀 Live Demo
+https://anmol2074.github.io/Calculator-JS/
+
+
 ## 🧠 Features
 ✅ Basic arithmetic operations  
 ✅ Clean and modern UI  
